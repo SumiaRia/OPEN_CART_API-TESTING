@@ -4,7 +4,7 @@
 
 
 
-OpenCart is an online store management system where testS API from [API DOCUMENTSTION](https://docs.opencart.com/en-gb/system/users/api/)
+OpenCart is an online store management system where testS API from [API DOCUMENTATION](https://docs.opencart.com/en-gb/system/users/api/)
 
 
 
@@ -26,7 +26,7 @@ https://github.com/SumiaRia/OPEN_CART_API-TESTING.git
 3. Open xampp and start Apache & MySQL
 4. Go to phpMyAdmin
 5. Create a database 
-6. Click the Import tab and choose file "openshop.sql" 
+6. Click the Import tab and choose the file "openshop.sql" 
 7. Click Go
 
 
